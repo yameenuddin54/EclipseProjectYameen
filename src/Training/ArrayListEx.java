@@ -18,6 +18,7 @@ public class ArrayListEx {
 	    cars.remove(2);
 	    cars.remove(1);
 	    System.out.println(cars);
+	    System.out.println("hi");
 	}
 
 }
